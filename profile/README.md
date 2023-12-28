@@ -4,7 +4,9 @@ This GitHub site is a place where you can find projects for the Timex/Sinclair 1
 
 ## Related GitHubs
 
-- [LoadZX](https://github.com/LoadZX) The Load ZX Spectrum Museum posts their projects here.
+### [LoadZX](https://github.com/LoadZX) 
+The Load ZX Spectrum Museum posts their projects here.
+- [Timex SCLD](https://github.com/LoadZX/timex_scld) - an implementation of the Timex TC2068 SCLD as can be found in Timex models TC2048 and TC2068.
 
 <!--
 
