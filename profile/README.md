@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi!
+
+This GitHub site is a place where you can find projects for the Timex/Sinclair 1000, 1500 and 2068 computers.
+
+## Related GitHubs
+
+- [LoadZX](https://github.com/LoadZX) The Load ZX Spectrum Museum posts their projects here.
 
 <!--
 
