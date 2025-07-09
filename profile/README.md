@@ -1,6 +1,15 @@
 ## Hi!
 
-This GitHub site is a place where you can find projects for the Timex/Sinclair 1000, 1500 and 2068 computers.
+This GitHub site is a place where you can find projects for the Timex/Sinclair 1000, 1500 and 2068 computers. Here are some of our featured projects:
+
+### [TS-Pico](https://github.com/timex-sinclair-projects/TS-Pico)
+A modern file storage system and development platform for the Timex/Sinclair 2068. Allows you to load/save files on SD cards. Includes 512KB of SRAM and 512KB of Flash ROM, both of which are user-programmable.
+
+### [PicoVideo](https://github.com/timex-sinclair-projects/PicoVideo)
+A board that uses a Raspberry Pi Pico to generate video for the TS2068. This project provides clearer video and some expanded video functionality.
+
+### [TS2068 Typefaces](https://github.com/timex-sinclair-projects/TS2068-typeface)
+Typeface files that include the special quirks of the TS 2068 font. OTF, TTF and web fonts are available.
 
 ## Related GitHubs
 
